@@ -41,7 +41,7 @@ The application provides the following features:
 
 Here is a screenshot of the application:
 
-![Screenshot](\img\screen.PNG)
+![Screenshot](img\screen.PNG)
 
 
 ## Credits
